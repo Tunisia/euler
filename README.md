@@ -1,4 +1,4 @@
-euler
+Project Euler
 =====
 
-Project Euler (python)
+Project Euler solutions in Python.
